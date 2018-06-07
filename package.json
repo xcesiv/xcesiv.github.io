@@ -1,0 +1,28 @@
+{
+  "name": "xcesiv",
+  "version": "0.0.1",
+  "description": "",
+  "main": "js/scripts.js",
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "keywords": [
+    "portfolio",
+    "personal",
+    "website",
+    "tech",
+    "coding",
+    "dev"
+  ],
+  "author": "xcesiv",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.2.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-wait": "0.0.2"
+  }
+}
